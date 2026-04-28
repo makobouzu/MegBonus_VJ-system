@@ -1,0 +1,15 @@
+*_
+.DS_Store
+Thumbs.db
+.vscode
+.directory
+
+*~
+*.swp
+*.swo
+
+/Backup/*
+/img/*
+/licence/*
+/material/*
+/reference/System/*
